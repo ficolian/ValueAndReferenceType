@@ -1,0 +1,15 @@
+D:\fifi\Task\ValueAndReferenceType\bin\Debug\net6.0\ValueAndReferenceType.exe
+D:\fifi\Task\ValueAndReferenceType\bin\Debug\net6.0\ValueAndReferenceType.deps.json
+D:\fifi\Task\ValueAndReferenceType\bin\Debug\net6.0\ValueAndReferenceType.runtimeconfig.json
+D:\fifi\Task\ValueAndReferenceType\bin\Debug\net6.0\ValueAndReferenceType.dll
+D:\fifi\Task\ValueAndReferenceType\bin\Debug\net6.0\ValueAndReferenceType.pdb
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.csproj.AssemblyReference.cache
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.AssemblyInfoInputs.cache
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.AssemblyInfo.cs
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.dll
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\refint\ValueAndReferenceType.dll
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.pdb
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ValueAndReferenceType.genruntimeconfig.cache
+D:\fifi\Task\ValueAndReferenceType\obj\Debug\net6.0\ref\ValueAndReferenceType.dll
